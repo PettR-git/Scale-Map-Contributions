@@ -1,2 +1,2 @@
 # Scale-Map-Contributions
-Some of the classes contributing to Scale_Map branch of "eddy", a part of exjob.
+Some of the classes contributing to Scale_Map branch of "eddy", a part of exjob. The functionality involves scaling the map in various ways (increasing/decreasing the number of tiles), and comparing the content of the original map and the ideas behind it, with an AI-scaled map. Essentially, an AI-scaled map is utilizing data from original map and applies the AI of eddy to mimic certain datapoints (symmetry, number of patterns, similarity, etc..) to the scaled map.
